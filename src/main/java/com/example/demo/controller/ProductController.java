@@ -12,7 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
  * ProductController
  */
 @Controller
-@RequestMapping("/app")
+@RequestMapping("")
 public class ProductController {
 
     @Autowired
